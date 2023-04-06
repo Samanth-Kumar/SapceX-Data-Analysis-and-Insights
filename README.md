@@ -1,5 +1,5 @@
 
-# SapceX-Data-Analysis-and-Insights
+# SapceX Data Analysis And Insights
 
 1. SpaceX Data API - In this notebook I have used SpaceX API to get the data, you can get API link in notebook.
 2. SpaceX WebScraping - I have used Beautifulsoup to get the data from Wikipedia which was unstructured link for wikipedia can be found in the notebook.
