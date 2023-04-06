@@ -5,5 +5,6 @@
 5. Data Visualisation - Used Seaborn library to look into the data which was explored in SQL.
 6. Visualizing locations - This notebook comprises of success and failures where it happened and nearest locations to launch sites like cities, roads and coasts.
 7. You can check the dahboards using spacex_dash_app.py
+8. Structured data is provided as csv file.
 
 
