@@ -8,6 +8,7 @@
 8. Structured data is provided as csv file.
 
 MY BADGES FROM IBM:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0aac694d-df79-4ce0-bdb4-01906ca5a9ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ![image](https://user-images.githubusercontent.com/50511545/230432830-be6f4948-28c5-431a-908f-306333519279.png)
 ![image](https://user-images.githubusercontent.com/50511545/230432954-7e561302-6418-40e1-b0eb-b403182a5e5a.png)
 ![image](https://user-images.githubusercontent.com/50511545/230433032-1c39d330-8de9-4013-b430-1c6c64d0062c.png)
