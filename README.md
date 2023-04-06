@@ -8,21 +8,19 @@
 8. Structured data is provided as csv file.
 
 MY BADGES FROM IBM:
+![data-analysis-with-python](https://user-images.githubusercontent.com/50511545/230437396-089f22e2-cde5-4fb6-acce-e458a9cb2132.png)
+![databases-and-sql-for-data-science](https://user-images.githubusercontent.com/50511545/230437404-aa0aac3d-91b9-4acf-a2f9-7c49d29bf329.png)
+![data-science-methodology](https://user-images.githubusercontent.com/50511545/230437406-6f13ac1e-3fd7-4491-a504-ab45eea9e748.png)
+![data-science-orientation](https://user-images.githubusercontent.com/50511545/230437411-34d6da36-64b9-4447-8b10-3bdde9a4bbac.png)
+![data-visualization-with-python](https://user-images.githubusercontent.com/50511545/230437412-c3c8a22d-8e5d-45e4-ae82-3fc8edf2f321.png)
+![python-for-data-science-and-ai](https://user-images.githubusercontent.com/50511545/230437416-7b10764e-d3e6-4359-9c47-9cad9ca17e64.png)
+![python-project-for-data-science](https://user-images.githubusercontent.com/50511545/230437420-c84266fb-5a2d-4891-99b6-fdf2f0d15b98.png)
+![tools-for-data-science](https://user-images.githubusercontent.com/50511545/230437422-26976cbc-a1bf-4d11-bac9-89b4e5155c7f.png)
+![applied-data-science-capstone 1](https://user-images.githubusercontent.com/50511545/230437425-358656f3-1e19-458d-83a2-7b283abc29ad.png)
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0aac694d-df79-4ce0-bdb4-01906ca5a9ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
-
-![image](https://user-images.githubusercontent.com/50511545/230432830-be6f4948-28c5-431a-908f-306333519279.png)
-![image](https://user-images.githubusercontent.com/50511545/230432954-7e561302-6418-40e1-b0eb-b403182a5e5a.png)
-![image](https://user-images.githubusercontent.com/50511545/230433032-1c39d330-8de9-4013-b430-1c6c64d0062c.png)
-![image](https://user-images.githubusercontent.com/50511545/230433419-ace3901a-4b28-44fb-aed3-66ef4c67ff2b.png)
-![image](https://user-images.githubusercontent.com/50511545/230433525-bba4ea5d-b549-495b-9ed1-482ee2fbc9b0.png)
-![image](https://user-images.githubusercontent.com/50511545/230433642-3b4e2f79-ae96-4d03-8f8e-915753bee993.png)
-![image](https://user-images.githubusercontent.com/50511545/230433843-8d800d6b-d743-4616-a8e7-9df6267170d2.png)
-![image](https://user-images.githubusercontent.com/50511545/230433926-b8a5784c-67f1-468d-901b-663adadd1f8d.png)
-![image](https://user-images.githubusercontent.com/50511545/230434004-e0d3a25b-5f9f-4088-ac61-bd1a4802f5ba.png)
 
 
 
