@@ -7,6 +7,8 @@
 7. You can check the dahboards using spacex_dash_app.py
 8. Structured data is provided as csv file.
 
+Credly Link: https://www.credly.com/users/ananthu-samanth-kumar (verify badges)
+
 # MY BADGES FROM IBM:
 
 
