@@ -7,7 +7,10 @@
 7. You can check the dahboards using spacex_dash_app.py
 8. Structured data is provided as csv file.
 
-MY BADGES FROM IBM:
+# MY BADGES FROM IBM:
+
+
+
 ![data-analysis-with-python](https://user-images.githubusercontent.com/50511545/230437396-089f22e2-cde5-4fb6-acce-e458a9cb2132.png)
 ![databases-and-sql-for-data-science](https://user-images.githubusercontent.com/50511545/230437404-aa0aac3d-91b9-4acf-a2f9-7c49d29bf329.png)
 ![data-science-methodology](https://user-images.githubusercontent.com/50511545/230437406-6f13ac1e-3fd7-4491-a504-ab45eea9e748.png)
