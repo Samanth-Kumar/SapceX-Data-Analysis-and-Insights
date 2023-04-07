@@ -36,8 +36,7 @@ Credly Link: https://www.credly.com/users/ananthu-samanth-kumar (verify badges)
 ![python-project-for-data-science](https://user-images.githubusercontent.com/50511545/230437420-c84266fb-5a2d-4891-99b6-fdf2f0d15b98.png)
 ![tools-for-data-science](https://user-images.githubusercontent.com/50511545/230437422-26976cbc-a1bf-4d11-bac9-89b4e5155c7f.png)
 ![applied-data-science-capstone 1](https://user-images.githubusercontent.com/50511545/230437425-358656f3-1e19-458d-83a2-7b283abc29ad.png)
-
-![image](https://user-images.githubusercontent.com/50511545/230620346-55d9341f-caed-47bb-b962-900612550fd5.png)
+![data-science-professional-certificate-v2](https://user-images.githubusercontent.com/50511545/230620756-3c9e74ff-5331-4b84-8a35-229516985bbd.png)
 
 
 
