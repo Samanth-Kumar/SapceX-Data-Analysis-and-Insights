@@ -1,6 +1,10 @@
 
 # SapceX Data Analysis And Insights
 
+
+![image](https://user-images.githubusercontent.com/50511545/230619734-1cbaf7c6-ce81-4eba-80a3-ad3db0f4ab73.png)
+
+
 1. SpaceX Data API - In this notebook I have used SpaceX API to get the data, you can get API link in notebook.
 2. SpaceX WebScraping - I have used Beautifulsoup to get the data from Wikipedia which was unstructured link for wikipedia can be found in the notebook.
 3. DataWrangling - Cleaning the data is required as the data was unstructured, so used pandas to clean the data by removing null values and providing mean values whereever required.
@@ -11,6 +15,13 @@
 8. Structured data is provided as csv file.
 
 Credly Link: https://www.credly.com/users/ananthu-samanth-kumar (verify badges)
+
+# Some visualizations
+
+![image](https://user-images.githubusercontent.com/50511545/230619590-0a913bfc-223e-4f33-baec-2b64973a9994.png)
+![image](https://user-images.githubusercontent.com/50511545/230619790-4b0ad94a-b75b-4a94-b988-b275b866666a.png)
+
+
 
 # MY BADGES FROM IBM:
 
