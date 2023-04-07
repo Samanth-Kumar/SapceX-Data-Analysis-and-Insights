@@ -18,8 +18,7 @@ Credly Link: https://www.credly.com/users/ananthu-samanth-kumar (verify badges)
 
 # Some visualizations
 
-![image](https://user-images.githubusercontent.com/50511545/230619590-0a913bfc-223e-4f33-baec-2b64973a9994.png)
-![image](https://user-images.githubusercontent.com/50511545/230619790-4b0ad94a-b75b-4a94-b988-b275b866666a.png)
+![image](https://user-images.githubusercontent.com/50511545/230619590-0a913bfc-223e-4f33-baec-2b64973a9994.png), ![image](https://user-images.githubusercontent.com/50511545/230619790-4b0ad94a-b75b-4a94-b988-b275b866666a.png)
 
 
 
